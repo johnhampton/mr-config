@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/tpm.git]
-checkout = mkdir -p ~/.tmux/plugins; VCSH_BASE=~/.tmux/plugins/tpm vcsh clone https://github.com/tmux-plugins/tpm tpm
+[$HOME/.tmux/plugins/tpm]
+checkout = mkdir -p ~/.tmux/plugins; git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm

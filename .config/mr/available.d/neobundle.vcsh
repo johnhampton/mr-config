@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/neobundle.git]
-checkout = mkdir -p ~/.vim/bundle; VCSH_BASE=~/.vim/bundle/neobundle.vim vcsh clone https://github.com/Shougo/neobundle.vim.git neobundle
+[$HOME/.vim/bundle/neobundle.vim]
+checkout = mkdir -p ~/.vim/bundle; git clone https://github.com/Shougo/neobundle.vim.git ~/.vim/bundle/neobundle.vim
