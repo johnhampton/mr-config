@@ -1,0 +1,2 @@
+[$HOME/.vim/bundle/repos/github.com/Shougo/dein.vim]
+checkout = mkdir -p ~/.vim/bundle; git clone https://github.com/Shougo/dein.vim.git ~/.vim/bundle/repos/github.com/Shougo/dein.vim
