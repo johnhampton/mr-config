@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/git.git]
+[$HOME/.config/vcsh/repo.d/home-bin.git]
 checkout = vcsh clone git@gitlab.com:johnhampton/home-bin.git home-bin
